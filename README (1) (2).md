@@ -11,7 +11,7 @@
 
 - **Nombre de la aplicación:** Alpha Analytics  
 - **Equipo e integrantes:** Valeria Muñoz, Isabela Montoya, Estefania Amaya   
-- **Enlace a la aplicación:** \[Pendiente / URL\]  
+- **Enlace a la aplicación:** \[https://alphaanalytics3.streamlit.app/]  
 - **Repositorio del proyecto:** \[URL\]  
 - **Última actualización:** \[AAAA-MM-DD\]
 
